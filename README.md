@@ -18,3 +18,5 @@ gcc (Ubuntu 9.2.1-9ubuntu2) 9.2.1
 ```
 --------------------------------------------------------------------------------------------
 Inoltre nel Client e nel Server devono essere cambiati due path che erano specifici per l'utente matteo nel file sistem usato.
+
+# puoi leggere i file `910339 - Matteo Dal Grande Progetto Reti socket.pdf` oppure `910339 - Matteo Dal Grande Progetto Reti socket.docx`
